@@ -1,4 +1,4 @@
-# 🛡️ ai-claim-verifier
+# 🛡️ AI Claim Verifier
 
 **An AI-powered insurance claim validation system that flags potentially fraudulent claims before manual review.**
 

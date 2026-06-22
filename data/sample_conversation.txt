@@ -1,0 +1,8 @@
+Agent: Can you describe what happened to your vehicle?
+Customer: My car was hit while it was parked outside my office.
+Agent: What time did this happen?
+Customer: It happened at night, around 9 PM.
+Agent: Were there any witnesses?
+Customer: No, I was alone when I came back and found the damage.
+Agent: Do you have the police report?
+Customer: I am still waiting for the police report.
