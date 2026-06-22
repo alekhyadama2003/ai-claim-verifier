@@ -1,6 +1,8 @@
 # 🛡️ AI Claim Verifier
 
 **An AI-powered insurance claim validation system that flags potentially fraudulent claims before manual review.**
+
+
 I built this project within 3 hours while participating in the HackerRank Orchestrate Hackathon JUN'26 
 
 ![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=flat-square&logo=python&logoColor=white)
